@@ -62,4 +62,4 @@ Chamada inicial da função init:
 
 Inicia o jogo quando a página é carregada.
 Este código utiliza a manipulação do DOM para interagir com elementos HTML, gera eventos com base nas ações do usuário e apresenta uma lógica simples de jogo.
-[Clique aqui]().
+[Clique aqui](https://danielcauldron.github.io/projeto-jogo-de-cartas/).
